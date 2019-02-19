@@ -1,8 +1,8 @@
 {
   "name": "customize-table",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
-  "main": "index.js",
+  "main": "libs/index.js",
   "private":false,
   "author": "liangyinga",
   "license": "MIT",
@@ -84,6 +84,6 @@
     "url": "https://github.com/liangyinga/customize-table/issues"
   },
   "homepage": "https://github.com/liangyinga/customize-table/blob/master/README.md",
-  "_resolved": "http://registry.npm.taobao.org/customize-table/download/customize-table-1.0.5.tgz",
-  "_from": "customize-table@1.0.5"
+  "_resolved": "http://registry.npm.taobao.org/customize-table/download/customize-table-1.0.6.tgz",
+  "_from": "customize-table@1.0.6"
 }
