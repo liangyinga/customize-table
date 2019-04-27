@@ -1,3 +1,8 @@
+<style>
+    .textone{
+       color: red;
+    }
+</style>
 <template>
     <div class="v-table-views v-table-class"
          :style="{'width': internalWidth+'px', 'height': getTableHeight+'px','background-color':tableBgColor}">
